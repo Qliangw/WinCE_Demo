@@ -1,0 +1,8 @@
+D:\GIT\WinCE_Demo\Demo_test\Demo_test\obj\Release\ResolveAssemblyReference.cache
+D:\GIT\WinCE_Demo\Demo_test\Demo_test\obj\Release\Demo_test.Form1.resources
+D:\GIT\WinCE_Demo\Demo_test\Demo_test\obj\Release\Demo_test.Properties.Resources.resources
+D:\GIT\WinCE_Demo\Demo_test\Demo_test\obj\Release\Demo_test.csproj.GenerateResource.Cache
+D:\GIT\WinCE_Demo\Demo_test\Demo_test\bin\Release\Demo_test.exe
+D:\GIT\WinCE_Demo\Demo_test\Demo_test\bin\Release\Demo_test.pdb
+D:\GIT\WinCE_Demo\Demo_test\Demo_test\obj\Release\Demo_test.exe
+D:\GIT\WinCE_Demo\Demo_test\Demo_test\obj\Release\Demo_test.pdb
